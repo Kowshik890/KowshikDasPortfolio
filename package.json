@@ -11,6 +11,7 @@
   "author": "Kowshik Das",
   "license": "MIT",
   "dependencies": {
+    "gh-pages": "^4.0.0",
     "node-sass": "^7.0.1"
   }
 }
